@@ -2,11 +2,11 @@
 
 ##
 
-- 🔭 Hoje eu trabalho como estágiario na área da Tecnologia da Informação
-- 🌱 Estou aprendendo JavaScript
+- 💼 Hoje eu trabalho como estágiario na área da Tecnologia da Informação.
+- 📚 Estou aprendendo JavaScript.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosrubenx&count_private=true&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosrubenx&layout=compact&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosrubenx&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosrubenx&layout=compact&theme=chartreuse-dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
